@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year undergraduate student currently studying theoretical physics at [UCL](https://www.ucl.ac.uk). I am very interest in high energy physics, especially particle physics and symmetry.
+I am a second-year undergraduate student currently studying theoretical physics at [UCL](https://www.ucl.ac.uk). I am very interest in high energy physics, especially particle physics and symmetry. 
+
+Lego, puzzle games and city planning games are things I would play in my spare time. Meanwhile, I would record my life through photography (especially film photography). You can find my works in Gallery111 and Adobe Stock111.
 
 <!--Big title
 ======
@@ -47,4 +49,4 @@ Many people use a git client to create files on their local computer and then pu
 
 <!--For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.-->
