@@ -1,7 +1,7 @@
 ---
-title: "Adoub Stock"
-excerpt: "Short description of portfolio item number 3 <br/><img src='/images/500x300.png'>"
+title: "Adobe Stock"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-You can find more works on my [Adobe Stock](https://www.).
+You can find more works on [Adobe Stock](https://)
