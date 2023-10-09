@@ -11,49 +11,41 @@ redirect_from:
 
 Education
 ======
-* B.S. in Theoretical Physics, University College London, 2022 - Present
+* B.S. in Theoretical Physics, University College London, London, UK 2022 - Present
+* A-level, Guanghua Qidi College, Shanghai, China 2020 - 2022
 <!--* M.S. in Jekyll, GitHub University, 2014-->
 <!--* Ph.D in Version Control Theory, GitHub University, 2018 (expected)-->
 
-Work experience
+Personal Projects
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Chaos System and Fluid Mechanics Simulation, 2021 summer
+  * Simulation of double pendulum system, Lorenz system and fluid in tubes
+  * Tools & technologies used: Matlab, COMSOL
+  * A program based on Matlab is used to simulate a double pendulum system. It allows the user to drag two masses to determine the initial state of masses, and then simulate the movement of the system for two seconds while recording angles and speeds.
+  * A program based on Matlab can form graphs of Lorenz system while user can change parameters.
+  * Several Simulations of fluid mechanics by COMSOL.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
+* Programming: Python, Mathematica, Matlab
+* Design and Modeling Software: Solidworks, CAD
+ <!-- * Sub-skill 2.1
   * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * Sub-skill 2.3 -->
+* Soft Skills: Good creativity, High learning CapAbility, Confident communication
+* Languages: English, Chinese
+* Areas of Interest: Particle physics, symmetry, beyond the standard model, interaction between professional software
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+<！--  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+  {% endfor %}</ul> -->
+
+Work experience
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* A-level Teacher, China, 2021 - 2022
+  * Individual
+  * The main purpose is to teach A-Level students mathematics, further mathematics, physics and chemistry.
+  * Maths and Physics competitions tutorial
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
