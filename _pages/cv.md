@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. in Theoretical Physics, University College London, 2022 - Present
-<!--* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)-->
+<!--* M.S. in Jekyll, GitHub University, 2014-->
+<!--* Ph.D in Version Control Theory, GitHub University, 2018 (expected)-->
 
 Work experience
 ======
