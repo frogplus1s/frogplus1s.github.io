@@ -10,7 +10,7 @@ redirect_from:
 
 I am a second-year undergraduate student currently studying theoretical physics at [UCL](https://www.ucl.ac.uk). I am very interest in high energy physics, especially particle physics and symmetry. 
 
-Lego, puzzle games and city planning games are things I would play in my spare time. Meanwhile, I would record my life through photography (especially film photography). You can find my works in Gallery111 and Adobe Stock111.
+Lego, puzzle games and city planning games are things I would play in my spare time. Meanwhile, I would record my life through photography (especially film photography). You can find my works in [Gallery](https://frogplus1s.github.io/portfolio/) and Adobe Stock.
 
 <!--Big title
 ======
