@@ -19,7 +19,7 @@ Education
 Personal Projects
 ======
 * Chaos System and Fluid Mechanics Simulation, 2021 summer
-  * Simulation of double pendulum system, Lorenz system and fluid in tubes
+  * Description: Simulation of double pendulum system, Lorenz system and fluid in tubes
   * Tools & technologies used: Matlab, COMSOL
   * A program based on Matlab is used to simulate a double pendulum system. It allows the user to drag two masses to determine the initial state of masses, and then simulate the movement of the system for two seconds while recording angles and speeds.
   * A program based on Matlab can form graphs of Lorenz system while user can change parameters.
@@ -29,9 +29,9 @@ Skills
 ======
 * Programming: Python, Mathematica, Matlab
 * Design and Modeling Software: Solidworks, CAD
- <!-- * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3 -->
+ <!-- * Sub-skill 2.1 -->
+ <!-- * Sub-skill 2.2 -->
+ <!-- * Sub-skill 2.3 -->
 * Soft Skills: Good creativity, High learning CapAbility, Confident communication
 * Languages: English, Chinese
 * Areas of Interest: Particle physics, symmetry, beyond the standard model, interaction between professional software
