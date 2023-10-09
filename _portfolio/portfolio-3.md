@@ -1,6 +1,6 @@
 ---
 title: "More Way"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/R0000039med@0.75x.png'>"
 collection: portfolio
 ---
 
